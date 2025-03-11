@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/resume-gh-pages/static/css/main.1e13ab5d.css",
-    "main.js": "/resume-gh-pages/static/js/main.05ce0e72.js",
+    "main.css": "/resume-gh-pages/static/css/main.7ef7f35e.css",
+    "main.js": "/resume-gh-pages/static/js/main.5ba2aa2f.js",
     "static/js/488.f30ea4ab.chunk.js": "/resume-gh-pages/static/js/488.f30ea4ab.chunk.js",
     "static/media/workimg1.jpg": "/resume-gh-pages/static/media/workimg1.08cd0b0f3d14919af872.jpg",
     "static/media/ProfileImg.jpg": "/resume-gh-pages/static/media/ProfileImg.619d4a4f65770e2b66cf.jpg",
     "index.html": "/resume-gh-pages/index.html",
-    "main.1e13ab5d.css.map": "/resume-gh-pages/static/css/main.1e13ab5d.css.map",
-    "main.05ce0e72.js.map": "/resume-gh-pages/static/js/main.05ce0e72.js.map",
+    "main.7ef7f35e.css.map": "/resume-gh-pages/static/css/main.7ef7f35e.css.map",
+    "main.5ba2aa2f.js.map": "/resume-gh-pages/static/js/main.5ba2aa2f.js.map",
     "488.f30ea4ab.chunk.js.map": "/resume-gh-pages/static/js/488.f30ea4ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e13ab5d.css",
-    "static/js/main.05ce0e72.js"
+    "static/css/main.7ef7f35e.css",
+    "static/js/main.5ba2aa2f.js"
   ]
 }
